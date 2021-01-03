@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Basic Chrome extension",
+  "description":"Linh Vu Chrome extension",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "./book_icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions":[
+    "activeTab",
+    "http://ajax.googleapis.com/"
+  ]
+}
