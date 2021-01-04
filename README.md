@@ -1,4 +1,4 @@
-# Create basic
+# Create basic Chrome extension
  References:
  - https://developer.chrome.com/docs/extensions/mv2/overview/
  - https://www.youtube.com/watch?v=SzFE4t38doY
