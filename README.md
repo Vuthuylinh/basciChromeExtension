@@ -12,13 +12,13 @@
   - manifest.json file is required
   ---
   # Steps to create basic Chrome extension:
-  Step1: Create  a new directory to store the extension's files
-  Step2: add a file called manifest.json (required)
-  Step3: add file:  popup.html
-  Step4: add image/icon (this case it's book_icon.png)
-  Step4: add file: popup.js
-  Step5: update manifest.json with the files added above
+  Step1: Create  a new directory to store the extension's files: 
+  - Step2: add a file called manifest.json (required)
+  - Step3: add file:  popup.html
+  - Step4: add image/icon (this case it's book_icon.png)
+  - Step4: add file: popup.js
+  - Step5: update manifest.json with the files added above
   ---
-  #Steps on Chrome
+  # Steps on Chrome
     Setting -> Extenstions -> Turn on Developer mode -> Load unpacked -> Seclect extension directory
 
